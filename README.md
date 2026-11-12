@@ -7,3 +7,6 @@ Ik heb voor de domeinnaam 'whatsyourpta' gekozen, dit omdat ik een vogel heb gen
 
 <b>Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.</b>
 Dit weet ik niet precies.
+
+<h2>Donderdag 12 november 2026 - Thuis </h2>
+Weer opgepakt waar ik maandag aan begonnen was, maar mee was gestopt omdat ik vastliep. VSCodium gedownload.
