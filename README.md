@@ -16,3 +16,9 @@ Bij de tweede les 'leren schetsen' op een goede, duidelijke manier. We begonnen 
 
 <h2>Zondag 15 November </h2>
 Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier.
+
+<h2>Maandag 16 November</h2>
+To-do Lijst gemaakt met alles wat ik deze sprint moet doen.
+
+<h2> Dinsdag 17 November</h2>
+Practicum light & dark theme gedaan. De eerste oefening heeft me heel lang gekost, omdat het steeds niet goed ging. Om dit op te lossen heb ik de uitwerking bekeken en die code vergeleken met mijn code. Dit heb ik gedaan tot ik het probleem tegenkwam (was een paar ; vergeten en had op sommige plekken nog < staan). En toen deed het het wel, de kleuren veranderden naar de kleuren die ik had uitgekozen. Ben doorgegaan naar de tweede oefening, hier liep ik ook wel vast, maar ik heb er minder lang over gedaan dan oefening 1.
