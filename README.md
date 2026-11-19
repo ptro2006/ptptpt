@@ -20,6 +20,8 @@ Bij de tweede les 'leren schetsen' op een goede, duidelijke manier. We begonnen 
 
 <h2>Zondag 15 November </h2>
 Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier. Ik heb wel gemerkt dat ik mijn schetsen zo wat duidelijker vind.
+
+
 <img width="150" height="200" alt="WhatsApp Image 2026-11-19 at 14 40 34 (1)" src="https://github.com/user-attachments/assets/1a1e9885-a9a6-42b4-8f2d-06275311a03e" />
 <img width="150" height="200" alt="WhatsApp Image 2026-11-19 at 14 40 34" src="https://github.com/user-attachments/assets/032ed9a0-2054-4df5-91a9-3da36a9697f9" />
 <img width="150" height="200" alt="WhatsApp Image 2026-11-19 at 14 40 35" src="https://github.com/user-attachments/assets/c556b8cc-3ddd-4438-a8ce-792d9ebb3d2e" />
