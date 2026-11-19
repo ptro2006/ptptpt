@@ -27,8 +27,10 @@ Ook gekeken naar hoe ik de presentatie kon maken, ben lang mee bezig geweest met
 <h2> Woensdag 18 November - Check Out</h2>
 De 50 verzamelde fotos aan het groepje laten zien waar ik in zat, en uitgelegd wat het verband tussen de foto's was. Toen met een beetje hulp van de docent gekomen op een onderwerp voor mijn Digital Garden. Verder in de les gewerkt aan de visual research opdracht, daar foto's voor verzameld. Sommige foto's zijn screenshots uit een paar van mijn favoriete music videos (new moon - tabber, tooth gem chiwawa - xlov, savanna - onlyoneof). Na het verzamelen van de foto's moesten we op een de site typographic posters kijken voor abstracte beelden die een beetje pasten bij de vibes van de foto's die we hadden verzameld. Ik ben veel posters tegen gekomen die mij best wat inspiratie hebben gegeven voor mijn garden. Daarna een crazy 8 gedaan waar ik niet helemaal tevreden over was, maar het was wel een begin, er is een deur opengegaan voor betere ideeën nu.
 
-<img width="482" height="532" alt="Scherm­afbeelding 2026-11-19 om 14 03 09" src="https://github.com/user-attachments/assets/fdc75644-3197-4159-adae-7bba8a799a0c" />
-<img width="485" height="423" alt="Scherm­afbeelding 2026-11-19 om 14 03 17" src="https://github.com/user-attachments/assets/a7954509-c340-49cd-b0c4-b0238b6019a0" />
+
+
+<img width="382" height="432" alt="Scherm­afbeelding 2026-11-19 om 14 03 09" src="https://github.com/user-attachments/assets/fdc75644-3197-4159-adae-7bba8a799a0c" />
+<img width="385" height="323" alt="Scherm­afbeelding 2026-11-19 om 14 03 17" src="https://github.com/user-attachments/assets/a7954509-c340-49cd-b0c4-b0238b6019a0" />
 
 
 Na de les heb ik het practicum mooie kleuren en gradients gevolgd. Ik persoonlijk vond het heel leerzaam en heb er echt wel wat aan gehad. Ik snap het var (--kleur) gebeuren nu veel beter. Ook kreeg ik terwijl we bezig waren met de gradients meteen ideeën over wat ik met gradients kon doen voor mijn garden, wat ook handig is.
