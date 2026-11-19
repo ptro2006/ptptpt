@@ -15,7 +15,7 @@ Weer opgepakt waar ik maandag aan begonnen was, maar mee was gestopt omdat ik va
 Bij de tweede les 'leren schetsen' op een goede, duidelijke manier. We begonnen met kijken naar onze oude schetsen, ik had die van mij niet mee dus heb ik samen met Shajiah en Serenity naar die van Serenity gekeken (beste naar minste). Daarna hebben we lijnen, vierkanten en onze telefoon op ware grootte geschetst. Ook hebben we geleerd over highlights en schaduwen gebruiken in de schets om dingen extra duidelijk aan te geven (aan jezelf en andere mensen) en annotaties bij schetsen zetten. Daarna gingen we wat we hadden geoefend combineren in een opdracht, waar we een mi-fi schets moesten maken van een scherm van een website/app die we veel gebruiken. Dit ging goed, ik heb zelf al veel ervaring met schetsen dus dit was een goede refresher voor mij.
 
 <h2>Zondag 15 November </h2>
-Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier.
+Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier. Ik heb wel gemerkt dat ik mijn schetsen zo wat duidelijker vind.
 
 <h2>Maandag 16 November</h2>
 Vandaag helaas niet veel kunnen doen. Ben bij de uitleg/intro geweest over sprint 1.
