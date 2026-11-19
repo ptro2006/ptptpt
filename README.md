@@ -18,8 +18,23 @@ Bij de tweede les 'leren schetsen' op een goede, duidelijke manier. We begonnen 
 Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier.
 
 <h2>Maandag 16 November</h2>
-Vandaag helaas niet veel kunnen doen. Ben bij de uitleg geweest over sprint 1.
+Vandaag helaas niet veel kunnen doen. Ben bij de uitleg/intro geweest over sprint 1.
 
 <h2> Dinsdag 17 November</h2>
-Practicum light & dark theme gedaan. De eerste oefening heeft me heel lang gekost, omdat het steeds niet goed ging. Om dit op te lossen heb ik de uitwerking bekeken en die code vergeleken met mijn code. Dit heb ik gedaan tot ik het probleem tegenkwam (was een paar ; vergeten en had op sommige plekken nog pijltje staan. En toen deed het het wel, de kleuren veranderden naar de kleuren die ik had uitgekozen. Ben doorgegaan naar de tweede oefening, hier liep ik ook wel vast, maar ik heb er minder lang over gedaan dan oefening 1.
+Practicum light & dark theme gedaan. De eerste oefening heeft me heel lang gekost, omdat het steeds niet goed ging. Om dit op te lossen heb ik de uitwerking bekeken en die code vergeleken met mijn code. Dit heb ik gedaan tot ik het probleem tegenkwam (was een paar ; vergeten en had op sommige plekken nog een pijltje staan. En toen deed het het wel, de kleuren veranderden naar de kleuren die ik had uitgekozen. Ben doorgegaan naar de tweede oefening, hier liep ik ook wel vast, maar ik heb er minder lang over gedaan dan oefening 1.
 Ook gekeken naar hoe ik de presentatie kon maken, ben lang mee bezig geweest met proberen te kijken hoe ik aanpassingen kon maken maar ik kwma er niet uit. Uiteindelijk heb ik wel 50 fotos verzameld en bedacht welke patronen/kenmerkende dingen steeds terugkomen in de afbeeldingen.
+
+<h2> Woensdag 18 November - Check Out</h2>
+De 50 verzamelde fotos aan het groepje laten zien waar ik in zat, en uitgelegd wat het verband tussen de foto's was. Toen met een beetje hulp van de docent gekomen op een onderwerp voor mijn Digital Garden. Verder in de les gewerkt aan de visual research opdracht, daar foto's voor verzameld. Sommige foto's zijn screenshots uit een paar van mijn favoriete music videos (new moon - tabber, tooth gem chiwawa - xlov, savanna - onlyoneof). Na het verzamelen van de foto's moesten we op een de site typographic posters kijken voor abstracte beelden die een beetje pasten bij de vibes van de foto's die we hadden verzameld. Ik ben veel posters tegen gekomen die mij best wat inspiratie hebben gegeven voor mijn garden. Daarna een crazy 8 gedaan waar ik niet helemaal tevreden over was, maar het was wel een begin, er is een deur opengegaan voor betere ideeën nu.
+
+<img width="482" height="532" alt="Scherm­afbeelding 2026-11-19 om 14 03 09" src="https://github.com/user-attachments/assets/fdc75644-3197-4159-adae-7bba8a799a0c" />
+<img width="485" height="423" alt="Scherm­afbeelding 2026-11-19 om 14 03 17" src="https://github.com/user-attachments/assets/a7954509-c340-49cd-b0c4-b0238b6019a0" />
+
+
+Na de les heb ik het practicum mooie kleuren en gradients gevolgd. Ik persoonlijk vond het heel leerzaam en heb er echt wel wat aan gehad. Ik snap het var (--kleur) gebeuren nu veel beter. Ook kreeg ik terwijl we bezig waren met de gradients meteen ideeën over wat ik met gradients kon doen voor mijn garden, wat ook handig is.
+
+<h2> Donderdag 19 November</h2>
+
+
+
+
