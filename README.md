@@ -18,11 +18,19 @@ Weer opgepakt waar ik maandag aan begonnen was, maar mee was gestopt omdat ik va
 <h2> Vrijdag 13 November - Checkout </h2>
 Bij de tweede les 'leren schetsen' op een goede, duidelijke manier. We begonnen met kijken naar onze oude schetsen, ik had die van mij niet mee dus heb ik samen met Shajiah en Serenity naar die van Serenity gekeken (beste naar minste). Daarna hebben we lijnen, vierkanten en onze telefoon op ware grootte geschetst. Ook hebben we geleerd over highlights en schaduwen gebruiken in de schets om dingen extra duidelijk aan te geven (aan jezelf en andere mensen) en annotaties bij schetsen zetten. Daarna gingen we wat we hadden geoefend combineren in een opdracht, waar we een mi-fi schets moesten maken van een scherm van een website/app die we veel gebruiken. Dit ging goed, ik heb zelf al veel ervaring met schetsen dus dit was een goede refresher voor mij.
 
+<img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40" src="https://github.com/user-attachments/assets/3fdc42ae-d670-494c-9cc7-daa1c2ccd10a" />
+<img width="150" height="2<img width="2000" height="1500" alt="WhatsApp Image 2026-11-19 at 14 52 40 (2)" src="https://github.com/user-attachments/assets/15a753d9-7b40-4bb8-b9d8-93b7d584fde8" />
+00" alt="WhatsApp Image 2026-11-19 at 14 51 30 (1)" src="https://github.com/user-attachments/assets/314c735c-7043-47f2-bfbb-9842fc2f920d" />
+<img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (1)" src="https://github.com/user-attachments/assets/3d78ddf6-77cd-4e44-8efe-aa362f9cf842" />
+
+
+
 
 
 <h2>Zondag 15 November </h2>
 Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier. Ik heb wel gemerkt dat ik mijn schetsen zo wat duidelijker vind.
 
+![Uploading WhatsApp Image 2026-11-19 at 14.52.40 (2).jpeg…]()
 
 
 
