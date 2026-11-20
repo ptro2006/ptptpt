@@ -20,8 +20,7 @@ Bij de tweede les 'leren schetsen' op een goede, duidelijke manier. We begonnen 
 
 <img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40" src="https://github.com/user-attachments/assets/3fdc42ae-d670-494c-9cc7-daa1c2ccd10a" />
 <img width="150" height="2<img width="2000" height="1500" alt="WhatsApp Image 2026-11-19 at 14 52 40 (2)" src="https://github.com/user-attachments/assets/15a753d9-7b40-4bb8-b9d8-93b7d584fde8" />
-00" alt="WhatsApp Image 2026-11-19 at 14 51 30 (1)" src="https://github.com/user-attachments/assets/314c735c-7043-47f2-bfbb-9842fc2f920d" />
-<img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (1)" src="https://github.com/user-attachments/assets/3d78ddf6-77cd-4e44-8efe-aa362f9cf842" />
+<img width="1500" height="2000" alt="WhatsApp Image 2026-11-19 at 14 51 30 (1)" src="https://github.com/user-attachments/assets/7898aac7-0e34-41cc-a817-fd1eea29bca5" />
 
 
 
@@ -30,7 +29,11 @@ Bij de tweede les 'leren schetsen' op een goede, duidelijke manier. We begonnen 
 <h2>Zondag 15 November </h2>
 Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier. Ik heb wel gemerkt dat ik mijn schetsen zo wat duidelijker vind.
 
-![Uploading WhatsApp Image 2026-11-19 at 14.52.40 (2).jpeg…]()
+<img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (4)" src="https://github.com/user-attachments/assets/6d383b4c-ce4a-4fff-abf0-8386e8256cd3" />
+<img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (2)" src="https://github.com/user-attachments/assets/f5b2fff4-4cba-425b-9ffe-35ccafb4627e" />
+<img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (3)" src="https://github.com/user-attachments/assets/ce2b3bbf-35c0-4094-b436-4c9c03d6e06c" />
+
+
 
 
 
