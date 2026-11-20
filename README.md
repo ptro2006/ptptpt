@@ -20,17 +20,17 @@ Bij de tweede les 'leren schetsen' op een goede, duidelijke manier. We begonnen 
 
 <img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40" src="https://github.com/user-attachments/assets/3fdc42ae-d670-494c-9cc7-daa1c2ccd10a" />
 <img width="150" height="2<img width="2000" height="1500" alt="WhatsApp Image 2026-11-19 at 14 52 40 (2)" src="https://github.com/user-attachments/assets/15a753d9-7b40-4bb8-b9d8-93b7d584fde8" />
-<img width="1500" height="2000" alt="WhatsApp Image 2026-11-19 at 14 51 30 (1)" src="https://github.com/user-attachments/assets/7898aac7-0e34-41cc-a817-fd1eea29bca5" />
+<img width="150" height="200" alt="WhatsApp Image 2026-11-19 at 14 51 30 (1)" src="https://github.com/user-attachments/assets/7898aac7-0e34-41cc-a817-fd1eea29bca5" />
 
 
 
 
 
 <h2>Zondag 15 November </h2>
-Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier. Ik heb wel gemerkt dat ik mijn schetsen zo wat duidelijker vind.
+Opdracht van Nicky (eerste les vrijdag) gedaan en meteen toegepast wat ik heb geleerd vrijdag in de les over schetsen. Ik heb er namelijk voor gekozen om het formulier te schetsen op papier. Ik heb wel gemerkt dat ik mijn schetsen zo wat duidelijker vind. Ik was niet tevreden met de eerste schets die ik heb gemaakt, dus heb ik nog één gemaakt. De eerste versie van de tweede schets vond ik ook niks, dus 
 
-<img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (4)" src="https://github.com/user-attachments/assets/6d383b4c-ce4a-4fff-abf0-8386e8256cd3" />
 <img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (2)" src="https://github.com/user-attachments/assets/f5b2fff4-4cba-425b-9ffe-35ccafb4627e" />
+<img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (4)" src="https://github.com/user-attachments/assets/6d383b4c-ce4a-4fff-abf0-8386e8256cd3" />
 <img width="200" height="150" alt="WhatsApp Image 2026-11-19 at 14 52 40 (3)" src="https://github.com/user-attachments/assets/ce2b3bbf-35c0-4094-b436-4c9c03d6e06c" />
 
 
@@ -45,6 +45,16 @@ Vandaag helaas niet veel kunnen doen. Ben bij de uitleg/intro geweest over sprin
 Nog gekeken naar de opdrachten van vorige week met CSS, ik kwam er zelf niet uit, dus heb ik een vriendin die ervaring heeft met coderen gevraagd om hulp en zo ben ik een stukje verder gekomen. Maar ik heb het het nog niet af.
 Practicum light & dark theme gedaan, mooie kleuren ervoor uitgekozen. De eerste oefening heeft me heel veel tijd gekost, omdat het steeds niet goed ging. Om dit op te lossen heb ik de uitwerking bekeken en die code vergeleken met mijn code. Dit heb ik gedaan tot ik het probleem tegenkwam (was een paar ; vergeten en had op sommige plekken nog een pijltje staan. En toen deed het het wel, de kleuren veranderden naar de kleuren die ik had uitgekozen (in dark en light mode). Ben doorgegaan naar de tweede oefening, hier liep ik ook wel vast, maar ik heb er minder lang over gedaan dan oefening 1. Ik snap het dus, ondanks dat ik zoveel tijd nodig had voor de eerste opdracht, wel iets beter dan eerst.
 Ook gekeken naar hoe ik de presentatie kon maken, ben lang mee bezig geweest met proberen te kijken hoe ik aanpassingen kon maken maar ik kwma er niet uit. Uiteindelijk heb ik wel 50 fotos verzameld en bedacht welke patronen/kenmerkende dingen steeds terugkomen in de afbeeldingen.
+
+<img width="694" height="501" alt="Scherm­afbeelding 2026-11-17 om 21 01 46" src="https://github.com/user-attachments/assets/fefd9471-4122-4793-9c97-eb1080712e04" />
+<img width="584" height="441" alt="Scherm­afbeelding 2026-11-17 om 21 03 17" src="https://github.com/user-attachments/assets/45b663dd-7c30-4afc-ae9b-7d9bfd67fe7f" />
+
+<img width="1104" height="625" alt="Scherm­afbeelding 2026-11-17 om 21 15 21" src="https://github.com/user-attachments/assets/4d295e10-ac82-4443-bc57-f4ed42649ee2" />
+<img width="1119" height="514" alt="Scherm­afbeelding 2026-11-17 om 21 15 26" src="https://github.com/user-attachments/assets/136a371c-5f7a-4a40-a9b8-c230d3355fd0" />
+
+<img width="1069" height="552" alt="Scherm­afbeelding 2026-11-18 om 16 24 22" src="https://github.com/user-attachments/assets/abb13e72-f0e9-467a-9bdb-6b6ddc969390" />
+<img width="1138" height="652" alt="Scherm­afbeelding 2026-11-18 om 15 53 25" src="https://github.com/user-attachments/assets/5e55456c-17d8-4bc6-8171-e6cca7d48195" />
+
 
 
 
