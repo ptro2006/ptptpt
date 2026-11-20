@@ -69,6 +69,16 @@ Na de les heb ik het practicum mooie kleuren en gradients gevolgd. Ik persoonlij
 <img width="285" height="223" alt="Scherm­afbeelding 2026-11-19 om 14 03 17" src="https://github.com/user-attachments/assets/a7954509-c340-49cd-b0c4-b0238b6019a0" />
 
 <h2> Donderdag 19 November</h2>
+Ik heb mijn favoriete ideeën gepakt van de crazy eight die ik gisteren in de les heb gedaan, en daar nette schetsen van gemaakt (en van sommige een nieuwe versie bedacht). Ik heb 4 ideeën van de crazy 8 uitgewerkt. Ik ben ook begonnen aan de mini-styleguide (kleurenpalet en lettertype).
+
+<img width="190" height="136" alt="WhatsApp Image 2026-11-20 at 15 13 39" src="https://github.com/user-attachments/assets/7101730e-53e1-4ab0-9f9c-97fd11eaf290" />
+<img width="133" height="187" alt="WhatsApp Image 2026-11-20 at 15 13 39 (1)" src="https://github.com/user-attachments/assets/b1ace57f-2d45-4969-8a7a-5bb6d5506be4" />
+<img width="160" height="240" alt="AdobeColor-My Color Theme" src="https://github.com/user-attachments/assets/72995d5d-93b1-4c0e-b34f-518e63652411" />
+
+
+
+<h2> Vrijdag 20 November - Checkout </h2>
+In de les verder gegaan met ideeën bedenken voor mijn garden. Ik heb dan omdat mijn idee veel over muziek gaat, door mijn playlist (4000+ liedjes..) heengekeken en liedjes uitgekozen waar ik persoonlijk veel van hou en waarvan de cover goed zou kunnen passen bij mijn 'visie' (ik heb een idee in mijn hoofd). Verder hebben we in de les gekeken naar hoe we onze ideeën kunnen vertalen naar code, bij de 3 voorbeelden werden manieren genoemd waarop dingen gecodeerd konden worden waar ik ook wel wat aan had, dus daar heb ik een foto van gemaakt. Verder heb ik van 2 docenten feedback gehad, over wat ik zou kunnen qua vormgeving (ook met de afbeeldingen die ik had verzameld bij de visual research) en over wat ik met code kan doen, om een begin te maken.
 
 
 
