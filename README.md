@@ -52,6 +52,8 @@ Ook gekeken naar hoe ik de presentatie kon maken, ben lang mee bezig geweest met
 
 <img width="552" height="313" alt="Scherm­afbeelding 2026-11-17 om 21 15 21" src="https://github.com/user-attachments/assets/4d295e10-ac82-4443-bc57-f4ed42649ee2" />
 <img width="564" height="257" alt="Scherm­afbeelding 2026-11-17 om 21 15 26" src="https://github.com/user-attachments/assets/136a371c-5f7a-4a40-a9b8-c230d3355fd0" />
+<img width="491" height="159" alt="Scherm­afbeelding 2026-11-20 om 15 42 05" src="https://github.com/user-attachments/assets/bf8c3722-3a5f-406b-8d28-842d39fc392c" />
+
 
 <img width="534" height="276" alt="Scherm­afbeelding 2026-11-18 om 16 24 22" src="https://github.com/user-attachments/assets/abb13e72-f0e9-467a-9bdb-6b6ddc969390" />
 <img width="569" height="326" alt="Scherm­afbeelding 2026-11-18 om 15 53 25" src="https://github.com/user-attachments/assets/5e55456c-17d8-4bc6-8171-e6cca7d48195" />
