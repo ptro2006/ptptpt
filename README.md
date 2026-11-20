@@ -81,9 +81,9 @@ Ik heb mijn favoriete ideeën gepakt van de crazy eight die ik gisteren in de le
 
 
 <h2> Vrijdag 20 November - Checkout </h2>
-In de les verder gegaan met ideeën bedenken voor mijn garden. Ik heb dan omdat mijn idee veel over muziek gaat, door mijn playlist (4000+ liedjes..) heengekeken en liedjes uitgekozen waar ik persoonlijk veel van hou en waarvan de cover goed zou kunnen passen bij mijn 'visie' (ik heb een idee in mijn hoofd). Verder hebben we in de les gekeken naar hoe we onze ideeën kunnen vertalen naar code, bij de 3 voorbeelden werden manieren genoemd waarop dingen gecodeerd konden worden waar ik ook wel wat aan had, dus daar heb ik een foto van gemaakt. Verder heb ik van 2 docenten feedback gehad, over wat ik zou kunnen qua vormgeving (ook met de afbeeldingen die ik had verzameld bij de visual research) en over wat ik met code kan doen, om een begin te maken.
+In de les verder gegaan met ideeën bedenken voor mijn garden. Ik heb dan omdat mijn idee veel over muziek gaat, door mijn playlist (4000+ liedjes..) heengekeken en liedjes uitgekozen waar ik persoonlijk veel van hou en waarvan de cover goed zou kunnen passen bij mijn 'visie' (ik heb een idee in mijn hoofd). Verder heb ik erover nagedacht om misschien de inhoud van de dark en light mode anders te maken, dat zou wel interessant zijn maar het is minder accessible doordat er van elke versie maar 1 is dan Verder hebben we in de les gekeken naar hoe we onze ideeën kunnen vertalen naar code, bij de 3 voorbeelden werden manieren genoemd waarop dingen gecodeerd konden worden waar ik ook wel wat aan had, dus daar heb ik een foto van gemaakt. Verder heb ik van 2 docenten feedback gehad, over wat ik zou kunnen qua vormgeving (ook met de afbeeldingen die ik had verzameld bij de visual research) en over wat ik met code kan doen, om een begin te maken.
 
-<img width="122" height="173<img width="1900" height="1366" alt="WhatsApp Image 2026-11-20 at 15 13 39" src="https://github.com/user-attachments/assets/8fec7183-62d6-4007-90a9-e425da9e811c" />
+
 <img width="190" height="136" alt="WhatsApp Image 2026-11-20 at 15 13 39" src="https://github.com/user-attachments/assets/aa8e5271-ce6d-47cc-9c18-a4a075c309ec" />
 <img width="200" height="150" alt="WhatsApp Image 2026-11-20 at 15 28 12" src="https://github.com/user-attachments/assets/8e7b1825-6b4e-411d-b40c-249f499183f4" />
 
