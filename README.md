@@ -46,14 +46,14 @@ Nog gekeken naar de opdrachten van vorige week met CSS, ik kwam er zelf niet uit
 Practicum light & dark theme gedaan, mooie kleuren ervoor uitgekozen. De eerste oefening heeft me heel veel tijd gekost, omdat het steeds niet goed ging. Om dit op te lossen heb ik de uitwerking bekeken en die code vergeleken met mijn code. Dit heb ik gedaan tot ik het probleem tegenkwam (was een paar ; vergeten en had op sommige plekken nog een pijltje staan. En toen deed het het wel, de kleuren veranderden naar de kleuren die ik had uitgekozen (in dark en light mode). Ben doorgegaan naar de tweede oefening, hier liep ik ook wel vast, maar ik heb er minder lang over gedaan dan oefening 1. Ik snap het dus, ondanks dat ik zoveel tijd nodig had voor de eerste opdracht, wel iets beter dan eerst.
 Ook gekeken naar hoe ik de presentatie kon maken, ben lang mee bezig geweest met proberen te kijken hoe ik aanpassingen kon maken maar ik kwma er niet uit. Uiteindelijk heb ik wel 50 fotos verzameld en bedacht welke patronen/kenmerkende dingen steeds terugkomen in de afbeeldingen.
 
-<img width="694" height="501" alt="Scherm­afbeelding 2026-11-17 om 21 01 46" src="https://github.com/user-attachments/assets/fefd9471-4122-4793-9c97-eb1080712e04" />
-<img width="584" height="441" alt="Scherm­afbeelding 2026-11-17 om 21 03 17" src="https://github.com/user-attachments/assets/45b663dd-7c30-4afc-ae9b-7d9bfd67fe7f" />
+<img width="297" height="201" alt="Scherm­afbeelding 2026-11-17 om 21 01 46" src="https://github.com/user-attachments/assets/fefd9471-4122-4793-9c97-eb1080712e04" />
+<img width="292" height="220" alt="Scherm­afbeelding 2026-11-17 om 21 03 17" src="https://github.com/user-attachments/assets/45b663dd-7c30-4afc-ae9b-7d9bfd67fe7f" />
 
-<img width="1104" height="625" alt="Scherm­afbeelding 2026-11-17 om 21 15 21" src="https://github.com/user-attachments/assets/4d295e10-ac82-4443-bc57-f4ed42649ee2" />
-<img width="1119" height="514" alt="Scherm­afbeelding 2026-11-17 om 21 15 26" src="https://github.com/user-attachments/assets/136a371c-5f7a-4a40-a9b8-c230d3355fd0" />
+<img width="552" height="313" alt="Scherm­afbeelding 2026-11-17 om 21 15 21" src="https://github.com/user-attachments/assets/4d295e10-ac82-4443-bc57-f4ed42649ee2" />
+<img width="564" height="257" alt="Scherm­afbeelding 2026-11-17 om 21 15 26" src="https://github.com/user-attachments/assets/136a371c-5f7a-4a40-a9b8-c230d3355fd0" />
 
-<img width="1069" height="552" alt="Scherm­afbeelding 2026-11-18 om 16 24 22" src="https://github.com/user-attachments/assets/abb13e72-f0e9-467a-9bdb-6b6ddc969390" />
-<img width="1138" height="652" alt="Scherm­afbeelding 2026-11-18 om 15 53 25" src="https://github.com/user-attachments/assets/5e55456c-17d8-4bc6-8171-e6cca7d48195" />
+<img width="534" height="276" alt="Scherm­afbeelding 2026-11-18 om 16 24 22" src="https://github.com/user-attachments/assets/abb13e72-f0e9-467a-9bdb-6b6ddc969390" />
+<img width="569" height="326" alt="Scherm­afbeelding 2026-11-18 om 15 53 25" src="https://github.com/user-attachments/assets/5e55456c-17d8-4bc6-8171-e6cca7d48195" />
 
 
 
