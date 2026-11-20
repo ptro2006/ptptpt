@@ -87,7 +87,13 @@ Ik kreeg in de les een vel met de titel "Jouw schermschetsen beoordelen", we moe
 <img width="190" height="136" alt="WhatsApp Image 2026-11-20 at 15 13 39" src="https://github.com/user-attachments/assets/aa8e5271-ce6d-47cc-9c18-a4a075c309ec" />
 <img width="200" height="150" alt="WhatsApp Image 2026-11-20 at 15 28 12" src="https://github.com/user-attachments/assets/8e7b1825-6b4e-411d-b40c-249f499183f4" />
 
-Ik ben zelfstandig ook nog verder gegaan met werken en ik heb de dark en light codeeropdrachten afgemaakt.
+Ik ben zelfstandig ook nog verder gegaan met werken en ik heb de dark en light codeeropdrachten afgemaakt. Ik heb opdracht 2 afgemaakt helemaal, want hij werkten nog niet helemaal. En ik heb oefening 3 gedaan, die ik best wel lastig vond. De manier waarop ik deze opdracht heb kunnen doen is kijken naar de uitwerking en mijn code aanpassen tot het goed was. Ik heb wel meteen mijn eigen afbeeldingen gebruikt, om te oefenen en dit straks ook te kunnen gebruiken in mijn eigen site.
+
+<img width="680" height="348" alt="Scherm­afbeelding 2026-11-20 om 16 16 59" src="https://github.com/user-attachments/assets/44164ca5-ace2-4dee-84f4-bbf2dc9c38d3" />
+<img width="690" height="367" alt="Scherm­afbeelding 2026-11-20 om 16 17 10" src="https://github.com/user-attachments/assets/fcbdc217-868b-4001-9864-8b0dda9af3e3" />
+
+
+
 
 
 
