@@ -102,6 +102,10 @@ Ik ben zelfstandig ook nog verder gegaan met werken en ik heb de dark en light c
 <img width="680" height="348" alt="Scherm­afbeelding 2026-11-20 om 16 16 59" src="https://github.com/user-attachments/assets/44164ca5-ace2-4dee-84f4-bbf2dc9c38d3" />
 <img width="690" height="367" alt="Scherm­afbeelding 2026-11-20 om 16 17 10" src="https://github.com/user-attachments/assets/fcbdc217-868b-4001-9864-8b0dda9af3e3" />
 
+Check-out : Welke feedback heb je gehad?
+Dat het idee gemaakt kan worden, dat het haalbaar is en dat ik een filmpje kan toevoegen of geluid. En dat het idee van de stijl/vibe er al is maar ik nog moet kijken hoe ik dit ga laten zien op mijn digital garden zelf en ga combineren met met de muziek (en kleuren en lettertype), dat het allemaal bij elkaar past.
+
+
 
 
 
