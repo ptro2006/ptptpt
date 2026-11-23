@@ -29,6 +29,8 @@ html {
 
 img {
   max-width: 100%;
+  width: 10em;
+  height: auto;
 }
 
 body {
