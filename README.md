@@ -105,6 +105,9 @@ Ik ben zelfstandig ook nog verder gegaan met werken en ik heb de dark en light c
 Check-out : Welke feedback heb je gehad?
 Dat het idee gemaakt kan worden, dat het haalbaar is en dat ik een filmpje kan toevoegen of geluid. En dat het idee van de stijl/vibe er al is maar ik nog moet kijken hoe ik dit ga laten zien op mijn digital garden zelf en ga combineren met met de muziek (en kleuren en lettertype), dat het allemaal bij elkaar past.
 
+<img width="680" height="680" alt="WhatsApp Image 2026-11-23 at 10 28 25" src="https://github.com/user-attachments/assets/b93c4230-8bf0-41ad-b815-767c42a76fe1" />
+
+
 
 
 
