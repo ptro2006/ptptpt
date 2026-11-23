@@ -15,8 +15,17 @@
 
 html {
   color-scheme: light dark;
-  --background: light-dark(#d9b0c6, #533c73);
   --color: light-dark(#71d9d9, #578bf2);
+  --background: light-dark(#d9b0c6, #533c73);
+  --mainbackground: light-dark(#d9b0c6, #533c73);
+}
+
+html:has([value="light"]:checked) {
+  color-scheme: light;
+}
+
+html:has([value="dark"]:checked) {
+  color-scheme: dark;
 }
 
 /**************************
@@ -34,7 +43,7 @@ main {
   max-width: 40em;
   padding: 2em;
   margin: auto;
-  background-color: aliceblue;
+  background-color: var(--mainbackground);
   border-radius: 12px;
   display: flex;
   align-items: left;
