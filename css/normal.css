@@ -16,17 +16,15 @@
 html {
   color-scheme: light dark;
   --mainbackground: light-dark(#dbcdd4, #a893c6);
-  --background: light-dark(url("xlovhappy.jpeg"), url("glitterrui.jpeg"));
+  --color: light-dark(#71d9d9 #578bf2);
 }
 
 html:has([value="light"]:checked) {
   color-scheme: light;
-  background-image: url("xlovhappy.jpeg");
 }
 
 html:has([value="dark"]:checked) {
   color-scheme: dark;
-  background-image: url("lightmodebackground.jpeg");
 }
 
 /**************************
