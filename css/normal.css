@@ -15,17 +15,18 @@
 
 html {
   color-scheme: light dark;
-  --color: light-dark(#71d9d9, #578bf2);
-  --background: light-dark(#d9b0c6, #533c73);
-  --mainbackground: light-dark(#d9b0c6, #533c73);
+  --mainbackground: light-dark(#dbcdd4, #a893c6);
+  --background: light-dark(url("xlovhappy.jpeg"), url("glitterrui.jpeg"));
 }
 
 html:has([value="light"]:checked) {
   color-scheme: light;
+  background-image: url("xlovhappy.jpeg");
 }
 
 html:has([value="dark"]:checked) {
   color-scheme: dark;
+  background-image: url("lightmodebackground.jpeg");
 }
 
 /**************************
@@ -58,7 +59,6 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
-  color: var(--color);
   background-color: var(--background);
 }
 
@@ -83,6 +83,11 @@ footer {
 main {
 }
 
+h1 {
+  display: flex;
+  padding: 2em;
+  margin: auto;
+}
 /**************************
 * MARK: Section ...
 **************************/
