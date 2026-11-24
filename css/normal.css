@@ -15,7 +15,7 @@
 
 html {
   color-scheme: light dark;
-  --mainbackground: light-dark(#dbcdd4, #a893c6);
+  --mainbackground: light-dark(#d9b0c6, #533c73);
   --color: light-dark(#71d9d9 #578bf2);
 }
 
@@ -58,6 +58,7 @@ img {
 body {
   font-family: "Comic Relief", system-ui;
   background-color: var(--background);
+  color: var (--color);
 }
 
 /**************************
@@ -79,12 +80,14 @@ footer {
 **************************/
 
 main {
+  color: var(--color);
 }
 
 h1 {
   display: flex;
   padding: 2em;
   margin: auto;
+  color: var(--color);
 }
 /**************************
 * MARK: Section ...
