@@ -56,7 +56,7 @@ img {
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
+  font-family: "Blaka Hollow", system-ui;
   background-color: var(--background);
   color: var(--color);
 }
@@ -84,10 +84,14 @@ main {
 }
 
 h1 {
-  display: flex;
+  text-align: center;
   padding: 2em;
-  margin: auto;
   color: var(--color);
+}
+
+h2 {
+  text-size: 10em;
+  text-align: left;
 }
 /**************************
 * MARK: Section ...
