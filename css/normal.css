@@ -65,15 +65,15 @@ body {
 * MARK: Header
 **************************/
 
-header {
+/*header {
 }
 
 /**************************
 * MARK: Footer
 **************************/
 
-footer {
-}
+/*footer {
+} */
 
 /**************************
 * MARK: Main
@@ -92,3 +92,9 @@ h1 {
 /**************************
 * MARK: Section ...
 **************************/
+
+.blaka-hollow-regular {
+  font-family: "Blaka Hollow", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
