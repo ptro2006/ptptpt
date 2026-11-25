@@ -105,7 +105,47 @@ Ik ben zelfstandig ook nog verder gegaan met werken en ik heb de dark en light c
 Check-out : Welke feedback heb je gehad?
 Dat het idee gemaakt kan worden, dat het haalbaar is en dat ik een filmpje kan toevoegen of geluid. En dat het idee van de stijl/vibe er al is maar ik nog moet kijken hoe ik dit ga laten zien op mijn digital garden zelf en ga combineren met met de muziek (en kleuren en lettertype), dat het allemaal bij elkaar past.
 
-<img width="680" height="680" alt="WhatsApp Image 2026-11-23 at 10 28 25" src="https://github.com/user-attachments/assets/b93c4230-8bf0-41ad-b815-767c42a76fe1" />
+<h2> Zondag 22 November </h2>
+Ik heb, voordat ik ben begonnen aan achtergronden veranderen en andere fancy dingen toevoegen, eerst alle (of iig, de meeste) informatie die ik op de website wil hebben staan toegevoegd zodat ik daar rekening mee kan houden met alle aanpassingen die ik in css doe. 
+
+<img width="143" height="75" alt="Scherm­afbeelding 2026-11-23 om 21 40 16" src="https://github.com/user-attachments/assets/5bd593a9-3d4b-4e50-93a5-f70d19597190" />
+
+Vandaag heb ik geprobeerd om een afbeelding als achtergrond in te stellen. En dat dark en light mode allebei een andere afbeelding hebben. De kleuren van de tekst en afbeeldingen veranderen dan gebaseerd op of de device op dark of light mode staat. Alleen dit was lastiger dan ik dacht en ik ben er vandaag ook niet uitgekomen.
+
+Ik heb ook de light / dark knop toegevoegd waar bezoekers kunnen switchen tussen light en dark mode. Ik heb de code gepakt van het lightdark practicum en daarna de code aangepast om beter bij mijn website te passen. Ik heb auto weggehaald, en de emoji die erbij stonden. Ik ben van plan om nog zelf icoontjes toe te voegen. Ik heb hier ook meteen de "juiste" kleuren volgens de kleurenpaletten die ik had toegevoegd aan de website.
+
+<img width="806" height="400" alt="Scherm­afbeelding 2026-11-23 om 21 52 05" src="https://github.com/user-attachments/assets/9d08f248-6445-49e1-beea-568fc1cec05b" />
+<img width="142" height="72" alt="Scherm­afbeelding 2026-11-23 om 22 12 44" src="https://github.com/user-attachments/assets/6e876d8b-30e4-4ea4-96bb-a388adf0e29b" />
+<img width="142" height="69" alt="Scherm­afbeelding 2026-11-23 om 22 00 40" src="https://github.com/user-attachments/assets/c25c0530-0b42-464b-9d94-9bb8d30a26a4" />
+
+
+
+Over de light/dark mode afbeelding, ik heb de code die ik heb geschreven voor de responsive afbeeldingen opdracht gepakt en in mijn html gezet en vanuit daar wilde ik verder werken. Toen ik de code in html had gezet kreeg ik de afbeeldingen wel in beeld en ze veranderden mee met de mode dus dat zat goed.
+
+<img width="83" height="39<img width="894" height="414" alt="Scherm­afbeelding 2026-11-23 om 22 26 51" src="https://github.com/user-attachments/assets/41ae7eb1-3d7f-4cb8-aa7d-9594205fcc35" />
+" alt="Scherm­afbeelding 2026-11-23 om 21 52 59" src="https://github.com/user-attachments/assets/0966c87c-3b23-446a-8610-b0c246e2e26e" />
+
+Ik dacht om het een achtergrond te maken i.p.v een losstaand plaatje moet ik bij de body (?) iets doen met background image. Maar ik begon meteen met de dark-lightmode toevoegen dus alles wat ik probeerde lukte niet. Ik denk dat ik het fout deed. Ik heb nog op internet gegoogled maar wat ik daar vond hielp mij ook niet echt verder. Ik heb veel een andere aanpak geprobeerd maar dat deed het ook niet en toen had ik geen ideeën meer. Dus ik ga het later deze week nog een keer proberen.
+
+<img width="69" height="22" alt="Scherm­afbeelding 2026-11-23 om 22 26 28" src="https://github.com/user-attachments/assets/cc5ff148-e46c-4bb2-b164-31762e271a7d" />
+<img width="69" height="16" alt="Scherm­afbeelding 2026-11-23 om 22 20 39" src="https://github.com/user-attachments/assets/b8d2ab89-98bd-414b-aca5-a20737df36b2" />
+
+Toen ik al die code weer had weggehaald om opnieuw te beginnen, deden de kleuren die ik had ingesteld voor dark en lightmode van de body niet meer. Dus daar moet ik ook morgen of overmorgen naar kijken. 
+
+<img width="89" height="41" alt="Scherm­afbeelding 2026-11-23 om 22 26 51" src="https://github.com/user-attachments/assets/7199573d-96ae-4f34-883f-1914345c5911" />
+
+<h2> Maandag 23 November </h2>
+
+Ik heb vandaag vooral geprobeerd mijn code verder te fixen
+
+
+
+
+
+
+
+
+
 
 
 
