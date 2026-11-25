@@ -106,10 +106,6 @@ Check-out : Welke feedback heb je gehad?
 Dat het idee gemaakt kan worden, dat het haalbaar is en dat ik een filmpje kan toevoegen of geluid. En dat het idee van de stijl/vibe er al is maar ik nog moet kijken hoe ik dit ga laten zien op mijn digital garden zelf en ga combineren met met de muziek (en kleuren en lettertype), dat het allemaal bij elkaar past.
 
 <h2> Zondag 22 November </h2>
-Ik heb, voordat ik ben begonnen aan achtergronden veranderen en andere fancy dingen toevoegen, eerst alle (of iig, de meeste) informatie die ik op de website wil hebben staan toegevoegd zodat ik daar rekening mee kan houden met alle aanpassingen die ik in css doe. 
-
-<img width="143" height="75" alt="Scherm­afbeelding 2026-11-23 om 21 40 16" src="https://github.com/user-attachments/assets/5bd593a9-3d4b-4e50-93a5-f70d19597190" />
-
 Vandaag heb ik geprobeerd om een afbeelding als achtergrond in te stellen. En dat dark en light mode allebei een andere afbeelding hebben. De kleuren van de tekst en afbeeldingen veranderen dan gebaseerd op of de device op dark of light mode staat. Alleen dit was lastiger dan ik dacht en ik ben er vandaag ook niet uitgekomen.
 
 Ik heb ook de light / dark knop toegevoegd waar bezoekers kunnen switchen tussen light en dark mode. Ik heb de code gepakt van het lightdark practicum en daarna de code aangepast om beter bij mijn website te passen. Ik heb auto weggehaald, en de emoji die erbij stonden. Ik ben van plan om nog zelf icoontjes toe te voegen. Ik heb hier ook meteen de "juiste" kleuren volgens de kleurenpaletten die ik had toegevoegd aan de website.
@@ -136,7 +132,29 @@ Toen ik al die code weer had weggehaald om opnieuw te beginnen, deden de kleuren
 
 <h2> Maandag 23 November </h2>
 
-Ik heb vandaag vooral geprobeerd mijn code verder te fixen
+Ik heb vandaag vooral geprobeerd mijn code verder te fixen. Maar na een tijdje kwam ik erachter dat dat me niet ging lukken vandaag (geen concentratie) dus heb ik mij gefocust op de juiste aesthetic kweken voor de lightmode. De album covers die ik al had staan pasten meer bij een dark mode, dus heb ik de album covers (en dus ook liedjes) aangepast. Daarnaast heb ik ook de titels van de liedjes toegevoegd en een stukje van de lyrics (meestal mijn favoriete stuk).
+
+<img width="143" height="75" alt="Scherm­afbeelding 2026-11-23 om 21 40 16" src="https://github.com/user-attachments/assets/5bd593a9-3d4b-4e50-93a5-f70d19597190" />
+
+<h2> Woensdag 25 November </h2>
+Vandaag heb ik een lettertype uitgekozen. Ik heb 2 lettertypes geprobeerd en nog een derde gevonden waarvan ik denk dat het een goede toevoeging zou kunnen zijn aan mijn website die ik nog niet heb geprobeerd. Ik denk dat ik een beter beeld krijg van of het goed past of niet als ik iets meer qua afbeeldingen en achtergrond enz heb geregeld voor de website, dus deze bewaar ik voor nu. 
+
+Het eerste lettertype wat ik heb geprobeerd is Blaka Hollow, ik vond deze wel goed bij de vibe/sfeer passen waar ik voor ga door de hoeken en de streep in het midden. Maar toen ik hem had toegevoegd aan de website, vond ik hem best wel moeilijk om te lezen. Dat vond 1 van de docenten ook en die gaf als feedback om te proberen de letters iets groter maken, dat dat misschien kon helpen met de leesbaarheid. Echter toen ik dit probeerde, maakte het geen verschil. Dus ben ik op zoek gegaan naar een nieuw lettertype. 
+De grootte van de letters veranderen lukte ook steeds niet en bij mijn css stond er steeds dat er ergens een fout in zat, ik dacht dat het aan de p lag dus wilde ik daar h3 van maken maar toen ik goed ging kijken zag ik dat ik een streepje miste tussen font-size en dat het daarom het niet deed. Ik had eerst al alles naar h3 verandert, maar dat heb ik dus weer terug verandert naar p.
+
+Voor het nieuwe lettertype ben ik op Medievalsharp gekomen en dit stond veel beter op de website. Ik heb nog een beetje gespeeld met de grootte van de tekst en 
+
+<img width="125" height="66" alt="Scherm­afbeelding 2026-11-25 om 10 00 38" src="https://github.com/user-attachments/assets/4d6962b7-73ad-4f61-bfa9-fb745fe9abc7" /> 
+<img width="143" height="72" alt="Scherm­afbeelding 2026-11-25 om 10 20 12" src="https://github.com/user-attachments/assets/5c58b55a-f49e-4b00-bcb0-df305e944696" />
+<img width="89" height="61" alt="Scherm­afbeelding 2026-11-25 om 10 20 05" src="https://github.com/user-attachments/assets/46a96a87-ce91-4dd7-beb1-f55e39c292cc" />
+<img width="72" height="16" alt="Scherm­afbeelding 2026-11-25 om 10 55 12" src="https://github.com/user-attachments/assets/900ddb8e-a6fb-4891-8986-cc3bd6c2b895" />
+<img width="54" height="37" alt="Scherm­afbeelding 2026-11-25 om 12 28 40" src="https://github.com/user-attachments/assets/245057ce-af36-4911-9f87-0ce61fd1d017" />
+<img width="64" height="69" alt="Scherm­afbeelding 2026-11-25 om 12 28 24" src="https://github.com/user-attachments/assets/b8d796b7-a767-4820-a45d-9d3f17b0aac3" />
+
+
+
+
+
 
 
 
