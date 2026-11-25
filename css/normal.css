@@ -44,6 +44,12 @@ main {
   margin: auto;
   background-color: var(--mainbackground);
   border-radius: 12px;
+  border-color: (
+    #701fb7 0% 25%,
+    #8e45cf 25% 50%,
+    #ab68e6 50% 75%,
+    #ab68e6 75% 100%
+  );
   display: flex;
   align-items: left;
   flex-direction: column;
@@ -56,7 +62,7 @@ img {
 }
 
 body {
-  font-family: "Blaka Hollow", system-ui;
+  font-family: "MedievalSharp", system-ui;
   background-color: var(--background);
   color: var(--color);
 }
@@ -90,15 +96,34 @@ h1 {
 }
 
 h2 {
-  text-size: 10em;
+  font-size: 2em;
   text-align: left;
 }
+
+p {
+  font size: 1em;
+  text-align: right;
+}
+
+#borderimg {
+  border: 10px solid transparent; /* Required for border-image */
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+}
+
+
 /**************************
 * MARK: Section ...
 **************************/
 
 .blaka-hollow-regular {
   font-family: "Blaka Hollow", system-ui;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.medievalsharp-regular {
+  font-family: "MedievalSharp", cursive;
   font-weight: 400;
   font-style: normal;
 }
