@@ -15,10 +15,6 @@
 
 html {
   color-scheme: light dark;
-  --mainbackground: light-dark(#d9b0c6, #533c73);
-  --color: light-dark(#71d9d9, #578bf2);
-  --header: light-dark(white, black);
-  --headertext: light-dark (black, white);
 }
 
 html:has([value="light"]:checked) {
@@ -42,41 +38,45 @@ html:has([value="dark"]:checked) {
 main {
   width: 100%;
   max-width: 40em;
-  padding: 2em;
+  padding: 20px;
   margin: auto;
-  background-color: var(--mainbackground);
-  border-style: solid;
-  border-radius: 12px;
-  border-color: white;
   display: flex;
   align-items: left;
   flex-direction: column;
+  background-color: rgb(137, 101, 227);
+  border-radius: 12px;
 }
 
 img {
   max-width: 100%;
-  width: 10em;
+  width: 15em;
   height: auto;
-  position: fixed;
+  position: flex;
+  padding: 30px;
 }
 
 body {
   font-family: "MedievalSharp", system-ui;
-  color: var(--color);
+}
+
+/* article */
+article {
+  display: flex;
+  flex-direction: right;
+  align-items: center;
+}
+
+section {
+  display: flex;
+  align-items: left;
+  flex-direction: column;
 }
 
 /**************************
 * MARK: Header
 **************************/
 
-header {
-  background-color: var(--header);
-  color: var(--headertext);
-  border-bottom: white;
-  padding-top: 10px;
-  padding-bottom: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
+/*header {
 }
 
 /**************************
@@ -89,22 +89,6 @@ header {
 /**************************
 * MARK: Main
 **************************/
-
-h1 {
-  /*text-align: center;*/
-  color: var(--color);
-}
-
-h2 {
-  font-size: 2em;
-  /*text-align: left; */
-  margin: 200px;
-}
-
-p {
-  font-size: 1em;
-  text-align: right;
-}
 
 /**************************
 * MARK: Section ...
