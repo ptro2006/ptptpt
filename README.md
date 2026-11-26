@@ -187,6 +187,121 @@ Ik heb terwijl ik het probleem probeerde te fixen wel het probleem gevonden met 
 <img width="142" height="70" alt="Scherm­afbeelding 2026-11-26 om 17 11 21" src="https://github.com/user-attachments/assets/ffec3d08-93b8-45ac-9ca8-a1a7afcad081" />
 
 
+html {
+  color-scheme: light dark;
+  --mainbackground: light-dark(#d9b0c6, #533c73);
+  --color: light-dark(#71d9d9, #578bf2);
+  --header: light-dark(rgb(160, 160, 160), black);
+  --headertext: light-dark(black, white);
+  --headerborder: light-dark(rgb(234, 165, 177), rgb(75, 0, 128));
+}
+
+html:has([value="light"]:checked) {
+  color-scheme: light;
+}
+
+html:has([value="dark"]:checked) {
+  color-scheme: dark;
+}
+
+/**************************
+* MARK: Algemene Styling
+**************************/
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  max-width: 40em;
+  padding: 20px;
+  margin: auto;
+  background-color: var(--mainbackground);
+  border-style: solid;
+  border-radius: 12px;
+  border-color: white;
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+}
+
+img {
+  max-width: 100%;
+  width: 10em;
+  height: auto;
+  position: fixed;
+}
+
+body {
+  font-family: "MedievalSharp", system-ui;
+  color: var(--color);
+}
+
+/**************************
+* MARK: Header
+**************************/
+
+header {
+  background-color: var(--header);
+  color: var(--headertext);
+  border: 5px;
+  border-style: solid;
+  border-color: var(--headerborder);
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+/**************************
+* MARK: Footer
+**************************/
+
+/*footer {
+} */
+
+/**************************
+* MARK: Main
+**************************/
+
+h1 {
+  /*text-align: center;*/
+  color: var(--color);
+}
+
+h2 {
+  font-size: 2em;
+  /*text-align: left; */
+  margin: 200px;
+}
+
+p {
+  font-size: 1em;
+  text-align: right;
+}
+
+/**************************
+* MARK: Section ...
+**************************/
+
+.blaka-hollow-regular {
+  font-family: "Blaka Hollow", system-ui;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.medievalsharp-regular {
+  font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
 
 
 
