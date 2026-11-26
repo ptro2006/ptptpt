@@ -142,7 +142,7 @@ Vandaag heb ik een lettertype uitgekozen. Ik heb 2 lettertypes geprobeerd en nog
 Het eerste lettertype wat ik heb geprobeerd is Blaka Hollow, ik vond deze wel goed bij de vibe/sfeer passen waar ik voor ga door de hoeken en de streep in het midden. Maar toen ik hem had toegevoegd aan de website, vond ik hem best wel moeilijk om te lezen. Dat vond 1 van de docenten ook en die gaf als feedback om te proberen de letters iets groter maken, dat dat misschien kon helpen met de leesbaarheid. Echter toen ik dit probeerde, maakte het geen verschil. Dus ben ik op zoek gegaan naar een nieuw lettertype. 
 De grootte van de letters veranderen lukte ook steeds niet en bij mijn css stond er steeds dat er ergens een fout in zat, ik dacht dat het aan de p lag dus wilde ik daar h3 van maken maar toen ik goed ging kijken zag ik dat ik een streepje miste tussen font-size en dat het daarom het niet deed. Ik had eerst al alles naar h3 verandert, maar dat heb ik dus weer terug verandert naar p.
 
-Voor het nieuwe lettertype ben ik op Medievalsharp gekomen en dit stond veel beter op de website. Ik heb nog een beetje gespeeld met de grootte van de tekst en 
+Voor het nieuwe lettertype ben ik op Medievalsharp gekomen en dit stond veel beter op de website. Ik heb nog een beetje gespeeld met de grootte van de tekst en dit lettertype is leesbaar en past ongeveer wel bij de sfeer waar ik voor ga
 
 <img width="125" height="66" alt="Scherm­afbeelding 2026-11-25 om 10 00 38" src="https://github.com/user-attachments/assets/4d6962b7-73ad-4f61-bfa9-fb745fe9abc7" /> 
 <img width="143" height="72" alt="Scherm­afbeelding 2026-11-25 om 10 20 12" src="https://github.com/user-attachments/assets/5c58b55a-f49e-4b00-bcb0-df305e944696" />
@@ -151,6 +151,18 @@ Voor het nieuwe lettertype ben ik op Medievalsharp gekomen en dit stond veel bet
 <img width="54" height="37" alt="Scherm­afbeelding 2026-11-25 om 12 28 40" src="https://github.com/user-attachments/assets/245057ce-af36-4911-9f87-0ce61fd1d017" />
 <img width="64" height="69" alt="Scherm­afbeelding 2026-11-25 om 12 28 24" src="https://github.com/user-attachments/assets/b8d796b7-a767-4820-a45d-9d3f17b0aac3" />
 
+<h3> Check-out: </h3>
+Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen. Dit heb ik met Emily gedaan.
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? Ik weet het eigenlijk niet. 
+Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
+als dit wat er bedoeld werd met de vraag:
+<img width="1850" height="889" alt="WhatsApp Image 2026-11-26 at 15 34 03" src="https://github.com/user-attachments/assets/0da4748b-ec4b-4e28-b5cb-f1b6bb8da3ab" />
+
+
+Ik heb ook nog geprobeerd iets van een border img toe te voegen omdat ik dat voorbij zag komen en het interessant vond maar het lukte mij niet dus ja. Ik heb het proberen uit te zoeken maar het lukte mij maar niet. Als ik het later, als de site iets completer is, nog steeds nodig vind dan kijk ik er nog wel een keer naar.
+
+<h2> Donderdag 26 November </h2>
+Vandaag proberen de meest belangrijke dingen nog toe te voegen aan de website, af ga ik het niet krijgen maar ik kan wel proberen het zoveel mogelijk compleet te hebben en later details toe te voegen.
 
 
 
