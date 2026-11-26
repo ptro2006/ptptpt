@@ -182,6 +182,10 @@ De tekst stond allemaal te dicht op elkaar dus dacht ik dat ik iets van margin o
 <img width="139" height="69" alt="Scherm­afbeelding 2026-11-26 om 16 10 58" src="https://github.com/user-attachments/assets/19f8d6e1-0d81-496a-a21b-e2f5ebd96ad5" />
 <img width="142" height="71" alt="Scherm­afbeelding 2026-11-26 om 16 38 12" src="https://github.com/user-attachments/assets/6b0f85fd-760d-4986-a82a-c2ce435beb7e" />
 
+Ik heb terwijl ik het probleem probeerde te fixen wel het probleem gevonden met de achtergrondkleuren en de kleuren van de tekst, de light en dark mode deed het nog wel maar ik had niet de juiste kleuren, dit was uiteindelijk dus omdat ik een komma was vergeten te zetten bij de --color tussen de twee kleuren. Hier kwam ik achter toen ik nieuwe kleuren aan het toevoegen was voor de banner van de header. Dat heb ik dus ook toegevoegd.
+
+<img width="142" height="70" alt="Scherm­afbeelding 2026-11-26 om 17 11 21" src="https://github.com/user-attachments/assets/ffec3d08-93b8-45ac-9ca8-a1a7afcad081" />
+
 
 
 
