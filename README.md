@@ -186,6 +186,12 @@ Ik heb terwijl ik het probleem probeerde te fixen wel het probleem gevonden met 
 
 <img width="142" height="70" alt="Scherm­afbeelding 2026-11-26 om 17 11 21" src="https://github.com/user-attachments/assets/ffec3d08-93b8-45ac-9ca8-a1a7afcad081" />
 
+Omdat ik er echt niet uitkwam heb ik bijna alles uit de css gehaald en langzaam aan weer stukjes code terug gaan zetten om te kijken of ik er zo kan achterkomen wat er misgaat. Ik heb als eerste de code die bij main stond weer teruggezet, dit maakt geen verschil tussen de afstand tussen de afbeeldingen. Ik ging kijken wat er bij img zelf stond en daar stond nog geen padding dus ging ik kijken of padding toevoegen een verschil zou maken. Dit maakte een verschil, namelijk, er kwam ruimte tussen de afbeeldingen maar de afbeeldingen zelf werden ook kleiner, wat ik niet had verwacht. 
+<img width="142" height="70" alt="Scherm­afbeelding 2026-11-26 om 22 35 30" src="https://github.com/user-attachments/assets/7dadfe71-d758-4297-b7be-6273f3a53050" />
+<img width="140" height="68" alt="Scherm­afbeelding 2026-11-26 om 22 40 24" src="https://github.com/user-attachments/assets/66e5f8a0-6ed5-4ae3-b026-e3d9bd83711d" />
+
+
+
 
 html {
   color-scheme: light dark;
