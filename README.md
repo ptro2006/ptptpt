@@ -163,6 +163,12 @@ Ik heb ook nog geprobeerd iets van een border img toe te voegen omdat ik dat voo
 
 <img width="144" height="72" alt="Scherm­afbeelding 2026-11-26 om 15 24 02" src="https://github.com/user-attachments/assets/e8b98f02-ea98-49eb-a125-2d35a11d9b4a" />
 
+En voordat ik dacht aan een border img, dacht ik aan een border met meerdere kleuren (meerdere rijen met kleuren, niet 1 lijn met een gradient of iets. Ik weet dat dit kan want dit heb ik vorig jaar bij Wijzer op het web gedaan maar ik weet alleen niet meer hoe het moet.
+Ik heb het geprobeerd op te zoeken maar toen kwam ik op het verkeerde. Dus ik zal het proberen op te zoeken op een andere manier. Ik wil een border toevoegen omdat ik vind dat het vlak wat ik nu heb waar de afbeeldingen instaan te kaal is, en een border een goede eenvoudige toevoeging zou zijn om het visueel iets interessanter te maken, en dan zeker een border met meerdere rijen en kleuren zegmaar. Ik zou ook een gradient kunnen toevoegen aan het vlak zelf maar ik denk dat het dan met de afbeeldingen erop iets te druk of afleidend wordtt en dat wil ik niet.
+
+https://ostraining.com/blog/coding/multi-colored-css-borders/
+<img width="131" height="70" alt="Scherm­afbeelding 2026-11-26 om 15 56 40" src="https://github.com/user-attachments/assets/b56ff95e-4a6d-498d-bb73-03ed8e63719e" />
+
 
 <h2> Donderdag 26 November </h2>
 Vandaag proberen de meest belangrijke dingen nog toe te voegen aan de website, af ga ik het niet krijgen maar ik kan wel proberen het zoveel mogelijk compleet te hebben en later details toe te voegen.
