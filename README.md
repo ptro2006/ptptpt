@@ -156,13 +156,17 @@ Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze beteken
 Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? Ik weet het eigenlijk niet. 
 Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
 als dit wat er bedoeld werd met de vraag:
-<img width="1850" height="889" alt="WhatsApp Image 2026-11-26 at 15 34 03" src="https://github.com/user-attachments/assets/0da4748b-ec4b-4e28-b5cb-f1b6bb8da3ab" />
+<img width="185" height="88" alt="WhatsApp Image 2026-11-26 at 15 34 03" src="https://github.com/user-attachments/assets/0da4748b-ec4b-4e28-b5cb-f1b6bb8da3ab" />
 
 
 Ik heb ook nog geprobeerd iets van een border img toe te voegen omdat ik dat voorbij zag komen en het interessant vond maar het lukte mij niet dus ja. Ik heb het proberen uit te zoeken maar het lukte mij maar niet. Als ik het later, als de site iets completer is, nog steeds nodig vind dan kijk ik er nog wel een keer naar.
 
 <h2> Donderdag 26 November </h2>
 Vandaag proberen de meest belangrijke dingen nog toe te voegen aan de website, af ga ik het niet krijgen maar ik kan wel proberen het zoveel mogelijk compleet te hebben en later details toe te voegen.
+
+Ik heb op google nog gezocht naar een manier om de achtergrond te laten veranderen in dark en light mode, want het moet wel kunnen, ik weet nu alleen niet hoe ik het *goed* kan doen. Ik kwam iets tegen waarvan ik dacht dat het mij misschien kon helpen maar uiteindelijk was het niks.
+<img width="137" height="70" alt="Scherm­afbeelding 2026-11-26 om 15 48 36" src="https://github.com/user-attachments/assets/f52a4f20-3aff-44e1-88d0-2c8630809cda" />
+
 
 
 
