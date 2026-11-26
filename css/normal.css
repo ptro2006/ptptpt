@@ -16,7 +16,9 @@
 html {
   color-scheme: light dark;
   --mainbackground: light-dark(#d9b0c6, #533c73);
-  --color: light-dark(#71d9d9 #578bf2);
+  --color: light-dark(#71d9d9, #578bf2);
+  --header: light-dark(white, black);
+  --headertext: light-dark (black, white);
 }
 
 html:has([value="light"]:checked) {
@@ -67,10 +69,14 @@ body {
 * MARK: Header
 **************************/
 
-title {
-  background-color: grey;
-  color: black;
+header {
+  background-color: var(--header);
+  color: var(--headertext);
   border-bottom: white;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 /**************************
