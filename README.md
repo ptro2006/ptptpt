@@ -176,6 +176,13 @@ Vandaag proberen de meest belangrijke dingen nog toe te voegen aan de website, a
 Ik heb op google nog gezocht naar een manier om de achtergrond te laten veranderen in dark en light mode, want het moet wel kunnen, ik weet nu alleen niet hoe ik het *goed* kan doen. Ik kwam iets tegen waarvan ik dacht dat het mij misschien kon helpen maar uiteindelijk was het niks.
 <img width="137" height="70" alt="Scherm­afbeelding 2026-11-26 om 15 48 36" src="https://github.com/user-attachments/assets/f52a4f20-3aff-44e1-88d0-2c8630809cda" />
 
+Ik heb al mn changes van gisteren gesaved en opeens was de hele website nou ja, stuk, dus dat was fijn en nu probeer ik het te fixen.
+De tekst stond allemaal te dicht op elkaar dus dacht ik dat ik iets van margin of padding moest toevoegen. Ik heb margin 200px gedaan om te kijken of het iets deed en dat deed zeker iets. Alleen de afbeeldingen gingen alleen maar verder van de tekst af wat niet de bedoeling is dus ga ik nu een andere manier proberen te vinden om dit op te lossen.
+
+<img width="139" height="69" alt="Scherm­afbeelding 2026-11-26 om 16 10 58" src="https://github.com/user-attachments/assets/19f8d6e1-0d81-496a-a21b-e2f5ebd96ad5" />
+<img width="142" height="71" alt="Scherm­afbeelding 2026-11-26 om 16 38 12" src="https://github.com/user-attachments/assets/6b0f85fd-760d-4986-a82a-c2ce435beb7e" />
+
+
 
 
 
