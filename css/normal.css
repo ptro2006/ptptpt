@@ -67,11 +67,10 @@ body {
 * MARK: Header
 **************************/
 
-header {
-  background-color: white;
+title {
+  background-color: grey;
   color: black;
-  padding: 1em;
-  margin: auto;
+  border-bottom: white;
 }
 
 /**************************
@@ -86,13 +85,13 @@ header {
 **************************/
 
 h1 {
-  text-align: center;
+  /*text-align: center;*/
   color: var(--color);
 }
 
 h2 {
   font-size: 2em;
-  text-align: left;
+  /*text-align: left; */
   margin: 200px;
 }
 
