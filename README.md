@@ -118,8 +118,8 @@ Ik heb ook de light / dark knop toegevoegd waar bezoekers kunnen switchen tussen
 
 Over de light/dark mode afbeelding, ik heb de code die ik heb geschreven voor de responsive afbeeldingen opdracht gepakt en in mijn html gezet en vanuit daar wilde ik verder werken. Toen ik de code in html had gezet kreeg ik de afbeeldingen wel in beeld en ze veranderden mee met de mode dus dat zat goed.
 
-<img width="83" height="39<img width="894" height="414" alt="Scherm­afbeelding 2026-11-23 om 22 26 51" src="https://github.com/user-attachments/assets/41ae7eb1-3d7f-4cb8-aa7d-9594205fcc35" />
-" alt="Scherm­afbeelding 2026-11-23 om 21 52 59" src="https://github.com/user-attachments/assets/0966c87c-3b23-446a-8610-b0c246e2e26e" />
+<img width="89" height="41" alt="Scherm­afbeelding 2026-11-23 om 22 26 51" src="https://github.com/user-attachments/assets/41ae7eb1-3d7f-4cb8-aa7d-9594205fcc35" />
+<img width="83" height="39" alt="Scherm­afbeelding 2026-11-23 om 21 52 59" src="https://github.com/user-attachments/assets/0966c87c-3b23-446a-8610-b0c246e2e26e" />
 
 Ik dacht om het een achtergrond te maken i.p.v een losstaand plaatje moet ik bij de body (?) iets doen met background image. Maar ik begon meteen met de dark-lightmode toevoegen dus alles wat ik probeerde lukte niet. Ik denk dat ik het fout deed. Ik heb nog op internet gegoogled maar wat ik daar vond hielp mij ook niet echt verder. Ik heb veel een andere aanpak geprobeerd maar dat deed het ook niet en toen had ik geen ideeën meer. Dus ik ga het later deze week nog een keer proberen.
 
