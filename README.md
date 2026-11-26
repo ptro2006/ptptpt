@@ -161,6 +161,9 @@ als dit wat er bedoeld werd met de vraag:
 
 Ik heb ook nog geprobeerd iets van een border img toe te voegen omdat ik dat voorbij zag komen en het interessant vond maar het lukte mij niet dus ja. Ik heb het proberen uit te zoeken maar het lukte mij maar niet. Als ik het later, als de site iets completer is, nog steeds nodig vind dan kijk ik er nog wel een keer naar.
 
+<img width="144" height="72" alt="Scherm­afbeelding 2026-11-26 om 15 24 02" src="https://github.com/user-attachments/assets/e8b98f02-ea98-49eb-a125-2d35a11d9b4a" />
+
+
 <h2> Donderdag 26 November </h2>
 Vandaag proberen de meest belangrijke dingen nog toe te voegen aan de website, af ga ik het niet krijgen maar ik kan wel proberen het zoveel mogelijk compleet te hebben en later details toe te voegen.
 
