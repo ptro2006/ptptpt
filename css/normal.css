@@ -43,13 +43,9 @@ main {
   padding: 2em;
   margin: auto;
   background-color: var(--mainbackground);
+  border-style: solid;
   border-radius: 12px;
-  border-color: (
-    #701fb7 0% 25%,
-    #8e45cf 25% 50%,
-    #ab68e6 50% 75%,
-    #ab68e6 75% 100%
-  );
+  border-color: white;
   display: flex;
   align-items: left;
   flex-direction: column;
@@ -64,7 +60,6 @@ img {
 
 body {
   font-family: "MedievalSharp", system-ui;
-  background-color: var(--background);
   color: var(--color);
 }
 
@@ -88,13 +83,13 @@ body {
 
 h1 {
   text-align: center;
-  padding: 2em;
   color: var(--color);
 }
 
 h2 {
   font-size: 2em;
   text-align: left;
+  margin: 200px;
 }
 
 p {
