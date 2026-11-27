@@ -1,4 +1,4 @@
-<img width="1422" height="702" alt="Scherm­afbeelding 2026-11-27 om 08 17 59" src="https://github.com/user-attachments/assets/e2c73e0c-9003-41c5-bd66-1fe15ac22d7b" /><h2>Maandag 9 november 2026 - Checkout</h2>
+<h2>Maandag 9 november 2026 - Checkout</h2>
 <b>Wat is een source hosting platform en voor welke heb jij gekozen? </b> 
 Een source hosting platform is een digitale plek om code op te slaan, ik heb gekozen voor GitHub.
 
@@ -210,6 +210,18 @@ Ik had de kleuren paars en geel geprobeerd voor light mode omdat het complementa
 
 <img width="143" height="71" alt="Scherm­afbeelding 2026-11-27 om 08 17 40" src="https://github.com/user-attachments/assets/4a55f420-3567-40a2-9b14-6820db7c7022" />
 <img width="143" height="71" alt="Scherm­afbeelding 2026-11-27 om 08 19 31" src="https://github.com/user-attachments/assets/c2a0b84c-6399-47d2-ac4e-9294eab3a7d2" />
+<img width="142" height="70" alt="Scherm­afbeelding 2026-11-27 om 08 17 59" src="https://github.com/user-attachments/assets/e2c73e0c-9003-41c5-bd66-1fe15ac22d7b" />
+
+In de les heb ik een zelfevaluatieformulier ingevuld en de schetsoefeningen van retrospect 1 gedaan. In het zelfevalutieformulier was ik niet heel positief omdat ik op dit moment gewoon absoluut niet blij ben met wat ik nu heb, maar dat geeft alleen maar meer motivatie om een manier uit te zoeken om het wel zo te krijgen zoals ik wil. Titel van dat metafoor is mijn tijdelijke ondergang btw.
+
+<img width="200" height="150" alt="WhatsApp Image 2026-11-27 at 12 32 04" src="https://github.com/user-attachments/assets/8665a634-b6e2-45c5-a61b-e709077c9656" />
+<img width="184" height="131" alt="WhatsApp Image 2026-11-27 at 12 32 46" src="https://github.com/user-attachments/assets/e7382e5f-6c30-4530-afa0-962050cb4627" />
+<img width="192" height="131" alt="WhatsApp Image 2026-11-27 at 12 32 31" src="https://github.com/user-attachments/assets/e79f9f65-b286-4927-bc17-3d387ce41f51" />
+<img width="135" height="184" alt="WhatsApp Image 2026-11-27 at 12 32 13" src="https://github.com/user-attachments/assets/c32a3f6b-40ed-4563-bf29-38a3211450e2" />
+
+
+
+
 
 
 
