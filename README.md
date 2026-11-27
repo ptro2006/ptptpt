@@ -1,4 +1,4 @@
-<h2>Maandag 9 november 2026 - Checkout</h2>
+<img width="1422" height="702" alt="Scherm­afbeelding 2026-11-27 om 08 17 59" src="https://github.com/user-attachments/assets/e2c73e0c-9003-41c5-bd66-1fe15ac22d7b" /><h2>Maandag 9 november 2026 - Checkout</h2>
 <b>Wat is een source hosting platform en voor welke heb jij gekozen? </b> 
 Een source hosting platform is een digitale plek om code op te slaan, ik heb gekozen voor GitHub.
 
@@ -193,120 +193,31 @@ Omdat ik er echt niet uitkwam heb ik bijna alles uit de css gehaald en langzaam 
 <img width="140" height="68" alt="Scherm­afbeelding 2026-11-26 om 22 40 24" src="https://github.com/user-attachments/assets/66e5f8a0-6ed5-4ae3-b026-e3d9bd83711d" />
 
 
+Ik was begonnen met alles weer terug in de css zetten toen een vriendin langskwam om mij te helpen. Die had meteen het probleem gevonden met de afbeeldingen, ze stonden op display:fixed en zo ging het fout. Ze heeft mij geholpen met dit fixen en voor de rest uitgelegd hoe ik de lyrics kon verplaatsen omdat die ook niet op de goede plek zaten. Het lijkt nu door die aanpassingen iets meer op het plaatje dat ik in mijn hoofd had van wat ik wilde maken.
+
+<img width="142" height="70" alt="Scherm­afbeelding 2026-11-27 om 08 17 59" src="https://github.com/user-attachments/assets/ca512cab-bfc0-4ffc-b432-f50126a77abf" />
 
 
-html {
-  color-scheme: light dark;
-  --mainbackground: light-dark(#d9b0c6, #533c73);
-  --color: light-dark(#71d9d9, #578bf2);
-  --header: light-dark(rgb(160, 160, 160), black);
-  --headertext: light-dark(black, white);
-  --headerborder: light-dark(rgb(234, 165, 177), rgb(75, 0, 128));
-}
 
-html:has([value="light"]:checked) {
-  color-scheme: light;
-}
+<h2> Vrijdag 27 November </h2>
 
-html:has([value="dark"]:checked) {
-  color-scheme: dark;
-}
+Ik heb nog het andere lettertype wat ik had gevonden snel uitgeprobeerd, alleen het was een beetje helemaal in elkaar gedrukt en ik wist zo snel niet hoe ik dat kon veranderen.
+Ook heb ik nog de kleur van de tekst en de achtergrond nog een paar keer verandert omdat ik er niet blij mee was, en uiteindelijk nog steeds niet. Het past niet bij die afbeeldingen die ik had verzamelt en voor die sfeer wil ik wel gaan. Ik kan kijken of ik een gradient kan toevoegen, maar het liefst wil ik gewoon een afbeelding op de achtergrond, die verandert als je switched van dark naar light mode en andersom.
+Ik had de kleuren paars en geel geprobeerd voor light mode omdat het complementaire kleuren zijn en de achtergrondkleur van de main ook paars was en ik dacht dat dat beter zou passen dan het roze of het paarse. En de roze en blauwe kleuren heb ik uit mijn kleurenpalleten die ik had gemaakt.
 
-/**************************
-* MARK: Algemene Styling
-**************************/
+<img width="69" height="53" alt="Scherm­afbeelding 2026-11-27 om 08 10 08" src="https://github.com/user-attachments/assets/1f13285f-c539-4222-b1ce-54f84e715d17" />
+<img width="41" height="29" alt="Scherm­afbeelding 2026-11-27 om 08 13 05" src="https://github.com/user-attachments/assets/d627724e-b121-49a5-b08c-757ffb2e7383" />
 
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
-}
+<img width="143" height="71" alt="Scherm­afbeelding 2026-11-27 om 08 17 40" src="https://github.com/user-attachments/assets/4a55f420-3567-40a2-9b14-6820db7c7022" />
+<img width="143" height="71" alt="Scherm­afbeelding 2026-11-27 om 08 19 31" src="https://github.com/user-attachments/assets/c2a0b84c-6399-47d2-ac4e-9294eab3a7d2" />
 
-main {
-  width: 100%;
-  max-width: 40em;
-  padding: 20px;
-  margin: auto;
-  background-color: var(--mainbackground);
-  border-style: solid;
-  border-radius: 12px;
-  border-color: white;
-  display: flex;
-  align-items: left;
-  flex-direction: column;
-}
 
-img {
-  max-width: 100%;
-  width: 10em;
-  height: auto;
-  position: fixed;
-}
 
-body {
-  font-family: "MedievalSharp", system-ui;
-  color: var(--color);
-}
 
-/**************************
-* MARK: Header
-**************************/
 
-header {
-  background-color: var(--header);
-  color: var(--headertext);
-  border: 5px;
-  border-style: solid;
-  border-color: var(--headerborder);
-  border-radius: 10px;
-  padding-top: 10px;
-  padding-bottom: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
-}
 
-/**************************
-* MARK: Footer
-**************************/
 
-/*footer {
-} */
 
-/**************************
-* MARK: Main
-**************************/
-
-h1 {
-  /*text-align: center;*/
-  color: var(--color);
-}
-
-h2 {
-  font-size: 2em;
-  /*text-align: left; */
-  margin: 200px;
-}
-
-p {
-  font-size: 1em;
-  text-align: right;
-}
-
-/**************************
-* MARK: Section ...
-**************************/
-
-.blaka-hollow-regular {
-  font-family: "Blaka Hollow", system-ui;
-  font-weight: 100;
-  font-style: normal;
-}
-
-.medievalsharp-regular {
-  font-family: "MedievalSharp", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
 
 
 
