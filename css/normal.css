@@ -15,8 +15,8 @@
 
 html {
   color-scheme: light dark;
-  --color: light-dark(#da8ebe, #27005a);
-  --mainbackground: light-dark(#ffc2ff, #521d9d);
+  --color: light-dark(#ffc2ff, #27005a);
+  --mainbackground: light-dark(#f8ffbb, #521d9d);
 }
 
 html:has([value="light"]:checked) {
@@ -81,6 +81,8 @@ section {
 **************************/
 
 /*header {
+  
+  
 }
 
 /**************************
@@ -115,4 +117,3 @@ section {
   font-weight: 400;
   font-style: normal;
 }
-
