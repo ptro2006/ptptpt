@@ -102,6 +102,14 @@ Ik ben zelfstandig ook nog verder gegaan met werken en ik heb de dark en light c
 <img width="680" height="348" alt="Scherm­afbeelding 2026-11-20 om 16 16 59" src="https://github.com/user-attachments/assets/44164ca5-ace2-4dee-84f4-bbf2dc9c38d3" />
 <img width="690" height="367" alt="Scherm­afbeelding 2026-11-20 om 16 17 10" src="https://github.com/user-attachments/assets/fcbdc217-868b-4001-9864-8b0dda9af3e3" />
 
+Ook heb ik nog kleurenpalletten gemaakt en gebrainstormed over wat ik kan doen voor de achtergrond voor de dark en light mode en de inspiratie daarvoor heb ik dan van musicvideos gepakt (letterlijk screenshots van de music videos). Ik heb de kleurenpalleten van de screenshots van de music video gepakt.
+Het tweede kleurenpallet heb ik uiteindelijk gecombineerd met een ander kleurenpallet om er 1 van te maken.
+
+<img width="141" height="64" alt="Scherm­afbeelding 2026-11-20 om 21 05 25" src="https://github.com/user-attachments/assets/2d48de21-5299-4fe6-bef0-2d24e09f97f9" />
+<img width="140" height="59" alt="Scherm­afbeelding 2026-11-20 om 21 07 07" src="https://github.com/user-attachments/assets/25425148-93b5-4b5b-bc3a-3fa889ad5cc8" />
+
+
+
 Check-out : Welke feedback heb je gehad?
 Dat het idee gemaakt kan worden, dat het haalbaar is en dat ik een filmpje kan toevoegen of geluid. En dat het idee van de stijl/vibe er al is maar ik nog moet kijken hoe ik dit ga laten zien op mijn digital garden zelf en ga combineren met met de muziek (en kleuren en lettertype), dat het allemaal bij elkaar past.
 
