@@ -15,8 +15,8 @@
 
 html {
   color-scheme: light dark;
-  --color: light-dark(#71d9d9, #27005a);
-  --mainbackground: light-dark(#d9b0c6, #521d9d);
+  --color: light-dark(#da8ebe, #27005a);
+  --mainbackground: light-dark(#ffc2ff, #521d9d);
 }
 
 html:has([value="light"]:checked) {
